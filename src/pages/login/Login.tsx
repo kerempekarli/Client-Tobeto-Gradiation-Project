@@ -26,6 +26,9 @@ const Login = () => {
       });
     console.log("login", email, password);
   };
+
+
+  
   return (
     <div className="mt-5">
       <Navi2 />
